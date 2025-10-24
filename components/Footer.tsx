@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1 space-y-4 flex flex-col items-center md:items-start">
             <div className="flex items-center gap-2">
               <Image
-                src="/images/design-mode/image_2025-10-24_005845227.png"
+                src="/images/design-mode/logo.png"
                 alt="Finest Detailing Logo"
                 width={45}
                 height={45}

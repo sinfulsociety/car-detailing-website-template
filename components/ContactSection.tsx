@@ -1,6 +1,6 @@
-"use client"
+"use client";
 
-import { Phone, MapPin, Clock } from "lucide-react"
+import { Phone, MapPin, Clock } from "lucide-react";
 
 export default function ContactSection() {
   return (
@@ -17,7 +17,8 @@ export default function ContactSection() {
                 Ready to Transform Your Vehicle?
               </h2>
               <p className="text-xl text-white/70 text-pretty leading-relaxed">
-                Contact us today to schedule your appointment or learn more about our services.
+                Contact us today to schedule your appointment or learn more
+                about our services.
               </p>
             </div>
 
@@ -32,7 +33,7 @@ export default function ContactSection() {
                     href="tel:+18005551234"
                     className="text-white font-semibold text-lg hover:text-blue-400 transition-colors"
                   >
-                    {"(813) 394-5136"}
+                    {"+18139935939"}
                   </a>
                 </div>
               </div>
@@ -72,7 +73,10 @@ export default function ContactSection() {
             <form className="space-y-6">
               <div className="grid sm:grid-cols-2 gap-4">
                 <div>
-                  <label htmlFor="firstName" className="block text-white font-medium mb-2">
+                  <label
+                    htmlFor="firstName"
+                    className="block text-white font-medium mb-2"
+                  >
                     First Name
                   </label>
                   <input
@@ -83,7 +87,10 @@ export default function ContactSection() {
                   />
                 </div>
                 <div>
-                  <label htmlFor="lastName" className="block text-white font-medium mb-2">
+                  <label
+                    htmlFor="lastName"
+                    className="block text-white font-medium mb-2"
+                  >
                     Last Name
                   </label>
                   <input
@@ -96,7 +103,10 @@ export default function ContactSection() {
               </div>
 
               <div>
-                <label htmlFor="email" className="block text-white font-medium mb-2">
+                <label
+                  htmlFor="email"
+                  className="block text-white font-medium mb-2"
+                >
                   Email
                 </label>
                 <input
@@ -108,19 +118,25 @@ export default function ContactSection() {
               </div>
 
               <div>
-                <label htmlFor="phone" className="block text-white font-medium mb-2">
+                <label
+                  htmlFor="phone"
+                  className="block text-white font-medium mb-2"
+                >
                   Phone
                 </label>
                 <input
                   type="tel"
                   id="phone"
                   className="w-full px-4 py-3 bg-white/5 border border-white/20 rounded-lg text-white placeholder:text-white/40 focus:outline-none focus:border-blue-500 transition-colors"
-                  placeholder="(813) 394-5136"
+                  placeholder="+18139935939"
                 />
               </div>
 
               <div>
-                <label htmlFor="service" className="block text-white font-medium mb-2">
+                <label
+                  htmlFor="service"
+                  className="block text-white font-medium mb-2"
+                >
                   Service Interested In
                 </label>
                 <select
@@ -138,7 +154,10 @@ export default function ContactSection() {
               </div>
 
               <div>
-                <label htmlFor="message" className="block text-white font-medium mb-2">
+                <label
+                  htmlFor="message"
+                  className="block text-white font-medium mb-2"
+                >
                   Message
                 </label>
                 <textarea
@@ -160,5 +179,5 @@ export default function ContactSection() {
         </div>
       </div>
     </section>
-  )
+  );
 }

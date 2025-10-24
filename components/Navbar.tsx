@@ -109,16 +109,15 @@ export default function Navbar() {
         >
           <div className="flex items-center gap-2">
             <Image
-              src="/images/design-mode/image_2025-10-24_005840680.png"
+              src="/images/design-mode/logo.png"
               alt="Finest Detailing Logo"
               width={45}
               height={45}
               className="rounded-lg"
             />
             <span className="text-white font-bold text-lg">
-              {" The White Glove Detailer"}
+              {"⁠AMP'D Auto Detailing"}
             </span>
-            {/* here */}
           </div>
         </a>
 
