@@ -116,7 +116,8 @@ export default function Navbar() {
               className="rounded-lg"
             />
             <span className="text-white font-bold text-lg">
-              {"⁠AMP'D Auto Detailing"}
+              {"⁠The White Glove Detailer"}
+              {/* here */}
             </span>
           </div>
         </a>

@@ -18,7 +18,7 @@ export default function Footer() {
                 className="rounded-lg"
               />
               <span className="text-white font-bold text-lg">
-                {"The White Glove Detailer Auto Detailing"}{" "}
+                {"The White Glove Detailer"}{" "}
               </span>
             </div>
             {/* here */}
