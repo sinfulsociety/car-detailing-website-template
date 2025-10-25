@@ -117,7 +117,7 @@ export default function Navbar() {
             />
             <span className="text-white font-bold text-lg">
               {"⁠The White Glove Detailer"}
-              {/* here */}
+              {/* change this*/}
             </span>
           </div>
         </a>
@@ -256,7 +256,7 @@ export default function Navbar() {
             className="rounded-lg"
           />
           <span className="text-white font-bold">The White Glove Detailer</span>
-          {/* here */}
+          {/* change this*/}
         </a>
 
         <button

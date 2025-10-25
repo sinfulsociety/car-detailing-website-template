@@ -142,7 +142,7 @@ export default function HeroSection() {
                 "The White Glove Detailer - USA's premier mobile automotive detailing and paint protection specialists. Transform your vehicle with our expert care and attention to detail."
               }
             </p>
-            {/* here */}
+            {/* change this*/}
             <div
               className={`flex justify-center pt-2 md:pt-4 transition-all duration-1000 delay-600 ${
                 isVisible

@@ -17,11 +17,11 @@ export default function Footer() {
                 height={45}
                 className="rounded-lg"
               />
+              {/* change this*/}
               <span className="text-white font-bold text-lg">
                 {"The White Glove Detailer"}{" "}
               </span>
             </div>
-            {/* here */}
             <p className="text-white/60 leading-relaxed">
               USA's premier mobile automotive detailing and paint protection
               specialists since 2014.
@@ -188,10 +188,10 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
+          {/* change this*/}
           <p className="text-white/60 text-sm">
             © 2025 The White Glove Detailer. All rights reserved.
           </p>
-          {/* here */}
           <p className="text-white/60 text-sm">
             Designed & Developed with ❤️ in USA
           </p>
