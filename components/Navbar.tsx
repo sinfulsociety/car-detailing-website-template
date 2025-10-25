@@ -249,15 +249,14 @@ export default function Navbar() {
       >
         <a className="flex items-center justify-center gap-2" href="/">
           <Image
-            src="/finest-detailing-logo.jpg"
+            src="/images/design-mode/logo.png"
             alt="Finest Detailing Logo"
             width={40}
             height={40}
             className="rounded-lg"
           />
-          <span className="text-white font-bold">
-            Blue Planet Mobile Car Wash
-          </span>
+          <span className="text-white font-bold">The White Glove Detailer</span>
+          {/* here */}
         </a>
 
         <button

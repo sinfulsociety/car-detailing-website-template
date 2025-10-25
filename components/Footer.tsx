@@ -189,9 +189,9 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
           <p className="text-white/60 text-sm">
-            © 2025 Blue Planet Mobile Car Wash And Detailing. All rights
-            reserved.
+            © 2025 The White Glove Detailer. All rights reserved.
           </p>
+          {/* here */}
           <p className="text-white/60 text-sm">
             Designed & Developed with ❤️ in USA
           </p>
