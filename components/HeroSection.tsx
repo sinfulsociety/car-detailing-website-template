@@ -139,7 +139,7 @@ export default function HeroSection() {
               style={{ textShadow: "0 2px 10px rgba(0,0,0,0.7)" }}
             >
               {
-                "D&D Orlando Car Detailing - USA's premier mobile automotive detailing and paint protection specialists. Transform your vehicle with our expert care and attention to detail."
+                "BPS Car Detailing Services Orlando - USA's premier mobile automotive detailing and paint protection specialists. Transform your vehicle with our expert care and attention to detail."
               }
             </p>
             {/* change this*/}
