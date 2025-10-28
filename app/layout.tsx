@@ -13,7 +13,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   // change this
-  title: "Orlando Magical Detailing LLC - Premier Auto Detailing Services",
+  title: "Delight Mobile Detailing LLC - Premier Auto Detailing Services",
   description:
     "USA's premier mobile automotive detailing and paint protection specialists. Expert ceramic coating, paint correction, and premium detailing services.",
   keywords:
