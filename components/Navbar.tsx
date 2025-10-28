@@ -116,7 +116,7 @@ export default function Navbar() {
               className="rounded-lg"
             />
             <span className="text-white font-bold text-lg">
-              {"Delight Mobile Detailing LLC"}
+              {"Detailing To GO"}
               {/* change this*/}
             </span>
           </div>
@@ -255,9 +255,7 @@ export default function Navbar() {
             height={40}
             className="rounded-lg"
           />
-          <span className="text-white font-bold">
-            Delight Mobile Detailing LLC
-          </span>
+          <span className="text-white font-bold">Detailing To GO</span>
           {/* change this*/}
         </a>
 

@@ -19,7 +19,7 @@ export default function Footer() {
               />
               {/* change this*/}
               <span className="text-white font-bold text-lg">
-                {"Delight Mobile Detailing LLC"}{" "}
+                {"Detailing To GO"}{" "}
               </span>
             </div>
             <p className="text-white/60 leading-relaxed">
@@ -190,7 +190,7 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
           {/* change this*/}
           <p className="text-white/60 text-sm">
-            © 2025 Delight Mobile Detailing LLC. All rights reserved.
+            © 2025 Detailing To GO. All rights reserved.
           </p>
           <p className="text-white/60 text-sm">
             Designed & Developed with ❤️ in USA
