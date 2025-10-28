@@ -13,7 +13,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   // change this
-  title: "The White Glove Detailer - Premier Auto Detailing Services",
+  title: "D&D Orlando Car Detailing - Premier Auto Detailing Services",
   description:
     "USA's premier mobile automotive detailing and paint protection specialists. Expert ceramic coating, paint correction, and premium detailing services.",
   keywords:

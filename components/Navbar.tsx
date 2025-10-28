@@ -116,7 +116,7 @@ export default function Navbar() {
               className="rounded-lg"
             />
             <span className="text-white font-bold text-lg">
-              {"⁠The White Glove Detailer"}
+              {"D&D Orlando Car Detailing"}
               {/* change this*/}
             </span>
           </div>
@@ -255,7 +255,9 @@ export default function Navbar() {
             height={40}
             className="rounded-lg"
           />
-          <span className="text-white font-bold">The White Glove Detailer</span>
+          <span className="text-white font-bold">
+            D&D Orlando Car Detailing
+          </span>
           {/* change this*/}
         </a>
 
