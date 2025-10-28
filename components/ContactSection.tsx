@@ -33,7 +33,8 @@ export default function ContactSection() {
                     href="tel:+18005551234"
                     className="text-white font-semibold text-lg hover:text-blue-400 transition-colors"
                   >
-                    {"+18139935939"}
+                    {"(689) 246-3770"}
+                    {/* change this */}
                   </a>
                 </div>
               </div>
@@ -128,8 +129,9 @@ export default function ContactSection() {
                   type="tel"
                   id="phone"
                   className="w-full px-4 py-3 bg-white/5 border border-white/20 rounded-lg text-white placeholder:text-white/40 focus:outline-none focus:border-blue-500 transition-colors"
-                  placeholder="+18139935939"
+                  placeholder="(689) 246-3770"
                 />
+                {/* change this */}
               </div>
 
               <div>
