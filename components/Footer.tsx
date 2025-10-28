@@ -19,7 +19,7 @@ export default function Footer() {
               />
               {/* change this*/}
               <span className="text-white font-bold text-lg">
-                {"BPS Car Detailing Services Orlando"}{" "}
+                {"Orlando Magical Detailing LLC"}{" "}
               </span>
             </div>
             <p className="text-white/60 leading-relaxed">
@@ -190,7 +190,7 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
           {/* change this*/}
           <p className="text-white/60 text-sm">
-            © 2025 BPS Car Detailing Services Orlando. All rights reserved.
+            © 2025 Orlando Magical Detailing LLC. All rights reserved.
           </p>
           <p className="text-white/60 text-sm">
             Designed & Developed with ❤️ in USA

@@ -116,7 +116,7 @@ export default function Navbar() {
               className="rounded-lg"
             />
             <span className="text-white font-bold text-lg">
-              {"BPS Car Detailing Services Orlando"}
+              {"Orlando Magical Detailing LLC"}
               {/* change this*/}
             </span>
           </div>
@@ -256,7 +256,7 @@ export default function Navbar() {
             className="rounded-lg"
           />
           <span className="text-white font-bold">
-            BPS Car Detailing Services Orlando
+            Orlando Magical Detailing LLC
           </span>
           {/* change this*/}
         </a>
